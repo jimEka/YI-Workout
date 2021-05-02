@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Regenerative Workouts
 
 You can use the [editor on GitHub](https://github.com/jimEka/YI-Workout/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://github.com/jimEka/YI-Workout/blob/gh-pages/yi-handout.png) and ![Image](https://github.com/jimEka/YI-Workout/blob/gh-pages/yi-handout.png)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
